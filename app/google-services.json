@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157639821205",
+    "firebase_url": "https://trv1-71505-default-rtdb.firebaseio.com",
+    "project_id": "trv1-71505",
+    "storage_bucket": "trv1-71505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157639821205:android:7fc47607d3e6727026989c",
+        "android_client_info": {
+          "package_name": "com.samvabya.textrouter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157639821205-6rpd8eb5c83hgucrl3l9m0l88p2a38jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhKHnROdBjYzfOYUC0f_yevguNbbkvSv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157639821205-6rpd8eb5c83hgucrl3l9m0l88p2a38jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
